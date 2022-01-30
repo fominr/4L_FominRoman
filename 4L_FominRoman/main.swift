@@ -1,11 +1,7 @@
-//
-//  main.swift
-//  4L_FominRoman
-//
-//  Created by Rom on 30.01.2022.
+//1. Описать класс Car c общими свойствами автомобилей и пустым методом действия по аналогии с прошлым заданием.
 //
 
 import Foundation
 
-print("Hello, World!")
+
 
